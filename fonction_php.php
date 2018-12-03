@@ -41,7 +41,7 @@ function remove_accent($str, $encoding = 'utf-8')
   }
 
 /*
-vérifie si un mot est un polindrome
+vérifie si un mot est un palindrome
 */
 
 function isPalindrome($word)
